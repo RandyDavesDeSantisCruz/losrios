@@ -4,17 +4,17 @@
 </title>
 <head>
 <style>
-    /* Ocultar todos los cantones, sus textos y sus botones de retorno por defecto */
-    h2[id^="Cantón"],
-    h2[id^="Cantón"] + p,
-    h2[id^="Cantón"] + p + a {
+    /* Ocultar todas las secciones y cantones por defecto */
+    h2[id],
+    h2[id] + p,
+    h2[id] + p + a {
         display: none;
     }
 
-    /* Mostrar únicamente el cantón seleccionado al hacer clic desde el menú */
-    h2[id^="Cantón"]:target,
-    h2[id^="Cantón"]:target + p,
-    h2[id^="Cantón"]:target + p + a {
+    /* Mostrar únicamente la sección o cantón seleccionado al hacer clic */
+    h2[id]:target,
+    h2[id]:target + p,
+    h2[id]:target + p + a {
         display: block;
     }
 </style>
@@ -22,11 +22,11 @@
 
 <h1>Datos de la Provincia de Los Ríos</h1>
 
-<a href="#Descripcion de la provincia">Ingresar a Descripcion de la provincia</a>
+<a href="#Seccion_Descripcion">Ingresar a Descripcion de la provincia</a>
 <br>
 <a href="#Imagen de la Bandera">Ingresar a Imagen de la Bandera</a>
 <br>
-<a href="#Prefecto">Ingresar a Prefecto</a>
+<a href="#Seccion_Prefecto">Ingresar a Prefecto</a>
 <br>
 <a href="#Gobernador">Ingresar a Gobernador</a>
 <br>
@@ -36,7 +36,7 @@
 <br>
 <a href="#Fecha">Ingresar a Fecha</a>
 <br>
-<a href="#Sección: Menu: Cantones">Ir a Sección: Menu: Cantones</a>
+<a href="#Caratula_Cantones">Ir a Sección: Menu: Cantones</a>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
@@ -44,19 +44,19 @@
 <p>
 Los Ríos es una de las provincias de la región litoral del Ecuador, caracterizada por su alta productividad agrícola, sus extensas cuencas hidrográficas y su variada cultura montubia.
 </p>
-<a href="#">Volver a al Menú Principal</a>
+<a href="#">Volver al Menú Principal</a>
 
 <h2 id="Imagen de la Bandera"><b>Imagen de la Bandera</b></h2>
 <p>
 <img src="bandera.jpg">
 </p>
-<a href="#">Volver a la Carátula Principal</a>
+<a href="#">Volver al Menú Principal</a>
 
 <h2 id="Seccion_Prefecto"><b>Prefecto</b></h2>
 <p>
 El prefecto actual es el Sr. Johnny Terán Salcedo.
 </p>
-<a href="#">Volver a la Carátula Principal</a>
+<a href="#">Volver al Menú Principal</a>
 
 <h2 id="Gobernador"><b>Gobernador</b></h2>
 <p>
@@ -89,31 +89,33 @@ Fecha de consulta del sitio web: 02 de Noviembre de 2026.
 <!-- ========================================== -->
 <h1 id="Caratula_Cantones">Menu: Cantones</h1>
 
-<a href="#Opciones_Baba">Ingresar a Baba</a>
+<a href="#Cantón Baba">Ingresar a Baba</a>
 <br>
-<a href="#Opciones_BuenaFe">Ingresar a Babahoyo</a>
+<a href="#Cantón Babahoyo">Ingresar a Babahoyo</a>
 <br>
-<a href="#Opciones_Montalvo">Ingresar a Buena Fe</a>
+<a href="#Cantón Buena Fe">Ingresar a Buena Fe</a>
 <br>
-<a href="#Opciones_Baba">Ingresar a Baba</a>
+<a href="#Cantón Mocache">Ingresar a Mocache</a>
 <br>
-<a href="#Opciones_BuenaFe">Ingresar a Buena Fe</a>
+<a href="#Cantón Montalvo">Ingresar a Montalvo</a>
 <br>
-<a href="#Opciones_Montalvo">Ingresar a Montalvo</a>
+<a href="#Cantón Palenque">Ingresar a Palenque</a>
 <br>
-<a href="#Opciones_Baba">Ingresar a Baba</a>
+<a href="#Cantón Puebloviejo">Ingresar a Puebloviejo</a>
 <br>
-<a href="#Opciones_BuenaFe">Ingresar a Buena Fe</a>
+<a href="#Cantón Quevedo">Ingresar a Quevedo</a>
 <br>
-<a href="#Opciones_Montalvo">Ingresar a Montalvo</a>
+<a href="#Cantón Quinsaloma">Ingresar a Quinsaloma</a>
 <br>
-<a href="#Opciones_Baba">Ingresar a Baba</a>
+<a href="#Cantón Urdaneta">Ingresar a Urdaneta</a>
 <br>
-<a href="#Opciones_BuenaFe">Ingresar a Buena Fe</a>
+<a href="#Cantón Valencia">Ingresar a Valencia</a>
 <br>
-<a href="#Opciones_Montalvo">Ingresar a Montalvo</a>
+<a href="#Cantón Ventanas">Ingresar a Ventanas</a>
 <br>
-<a href="#">Volver a Menú Principal de la Provincia</a>
+<a href="#Cantón Vinces">Ingresar a Vinces</a>
+<br>
+<a href="#">Volver al Menú Principal de la Provincia</a>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
@@ -136,7 +138,7 @@ Fecha de consulta del sitio web: 02 de Noviembre de 2026.
 <b>Mapa:</b><br>
 <img src="mapa_baba.jpg">
 </p>
-<a href="#Menú de Cantones">Volver al Menú de Cantones</a>
+<a href="#Caratula_Cantones">Volver al Menú de Cantones</a>
 
 <h2 id="Cantón Babahoyo"><b>Cantón Babahoyo</b></h2>
 <p>
@@ -157,7 +159,7 @@ Fecha de consulta del sitio web: 02 de Noviembre de 2026.
 <b>Mapa:</b><br>
 <img src="mapa_babahoyo.jpg">
 </p>
-<a href="#Menú de Cantones">Volver al Menú de Cantones</a>
+<a href="#Caratula_Cantones">Volver al Menú de Cantones</a>
 
 <h2 id="Cantón Buena Fe"><b>Cantón Buena Fe</b></h2>
 <p>
@@ -178,7 +180,7 @@ Fecha de consulta del sitio web: 02 de Noviembre de 2026.
 <b>Mapa:</b><br>
 <img src="mapa_buena_fe.jpg">
 </p>
-<a href="#Menú de Cantones">Volver al Menú de Cantones</a>
+<a href="#Caratula_Cantones">Volver al Menú de Cantones</a>
 
 <h2 id="Cantón Mocache"><b>Cantón Mocache</b></h2>
 <p>
@@ -199,7 +201,7 @@ Fecha de consulta del sitio web: 02 de Noviembre de 2026.
 <b>Mapa:</b><br>
 <img src="mapa_mocache.jpg">
 </p>
-<a href="#Menú de Cantones">Volver al Menú de Cantones</a>
+<a href="#Caratula_Cantones">Volver al Menú de Cantones</a>
 
 <h2 id="Cantón Montalvo"><b>Cantón Montalvo</b></h2>
 <p>
@@ -220,7 +222,7 @@ Fecha de consulta del sitio web: 02 de Noviembre de 2026.
 <b>Mapa:</b><br>
 <img src="mapa_montalvo.jpg">
 </p>
-<a href="#Menú de Cantones">Volver al Menú de Cantones</a>
+<a href="#Caratula_Cantones">Volver al Menú de Cantones</a>
 
 <h2 id="Cantón Palenque"><b>Cantón Palenque</b></h2>
 <p>
@@ -241,7 +243,7 @@ Fecha de consulta del sitio web: 02 de Noviembre de 2026.
 <b>Mapa:</b><br>
 <img src="mapa_palenque.jpg">
 </p>
-<a href="#Menú de Cantones">Volver al Menú de Cantones</a>
+<a href="#Caratula_Cantones">Volver al Menú de Cantones</a>
 
 <h2 id="Cantón Puebloviejo"><b>Cantón Puebloviejo</b></h2>
 <p>
@@ -262,7 +264,7 @@ Fecha de consulta del sitio web: 02 de Noviembre de 2026.
 <b>Mapa:</b><br>
 <img src="mapa_puebloviejo.jpg">
 </p>
-<a href="#Menú de Cantones">Volver al Menú de Cantones</a>
+<a href="#Caratula_Cantones">Volver al Menú de Cantones</a>
 
 <h2 id="Cantón Quevedo"><b>Cantón Quevedo</b></h2>
 <p>
@@ -283,7 +285,7 @@ Fecha de consulta del sitio web: 02 de Noviembre de 2026.
 <b>Mapa:</b><br>
 <img src="mapa_quevedo.jpg">
 </p>
-<a href="#Menú de Cantones">Volver al Menú de Cantones</a>
+<a href="#Caratula_Cantones">Volver al Menú de Cantones</a>
 
 <h2 id="Cantón Quinsaloma"><b>Cantón Quinsaloma</b></h2>
 <p>
@@ -304,7 +306,7 @@ Fecha de consulta del sitio web: 02 de Noviembre de 2026.
 <b>Mapa:</b><br>
 <img src="mapa_quinsaloma.jpg">
 </p>
-<a href="#Menú de Cantones">Volver al Menú de Cantones</a>
+<a href="#Caratula_Cantones">Volver al Menú de Cantones</a>
 
 <h2 id="Cantón Urdaneta"><b>Cantón Urdaneta</b></h2>
 <p>
@@ -325,7 +327,7 @@ Fecha de consulta del sitio web: 02 de Noviembre de 2026.
 <b>Mapa:</b><br>
 <img src="mapa_urdaneta.jpg">
 </p>
-<a href="#Menú de Cantones">Volver al Menú de Cantones</a>
+<a href="#Caratula_Cantones">Volver al Menú de Cantones</a>
 
 <h2 id="Cantón Valencia"><b>Cantón Valencia</b></h2>
 <p>
@@ -346,7 +348,7 @@ Fecha de consulta del sitio web: 02 de Noviembre de 2026.
 <b>Mapa:</b><br>
 <img src="mapa_valencia.jpg">
 </p>
-<a href="#Menú de Cantones">Volver al Menú de Cantones</a>
+<a href="#Caratula_Cantones">Volver al Menú de Cantones</a>
 
 <h2 id="Cantón Ventanas"><b>Cantón Ventanas</b></h2>
 <p>
@@ -367,7 +369,7 @@ Fecha de consulta del sitio web: 02 de Noviembre de 2026.
 <b>Mapa:</b><br>
 <img src="mapa_ventanas.jpg">
 </p>
-<a href="#Menú de Cantones">Volver al Menú de Cantones</a>
+<a href="#Caratula_Cantones">Volver al Menú de Cantones</a>
 
 <h2 id="Cantón Vinces"><b>Cantón Vinces</b></h2>
 <p>
@@ -388,6 +390,6 @@ Fecha de consulta del sitio web: 02 de Noviembre de 2026.
 <b>Mapa:</b><br>
 <img src="mapa_vinces.jpg">
 </p>
-<a href="#Menú de Cantones">Volver al Menú de Cantones</a>
+<a href="#Caratula_Cantones">Volver al Menú de Cantones</a>
 
 </html>
