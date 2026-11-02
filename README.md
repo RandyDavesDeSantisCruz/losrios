@@ -1,3 +1,12 @@
+<html>
+<title>
+    DATOS DE LA PROVINCIA DE LOS RÍOS
+</title>
+<head>
+<style>
+</style>
+</head>
+
 <h1>Datos de la Provincia de Los Ríos</h1>
 
 <a href="#Seccion_Descripcion">Ingresar a Descripcion de la provincia</a>
