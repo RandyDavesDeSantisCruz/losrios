@@ -3,26 +3,40 @@
     DATOS DE LA PROVINCIA DE LOS RÍOS
 </title>
 <head>
+<style>
+    /* Ocultar todos los cantones, sus textos y sus botones de retorno por defecto */
+    h2[id^="Cantón"],
+    h2[id^="Cantón"] + p,
+    h2[id^="Cantón"] + p + a {
+        display: none;
+    }
 
+    /* Mostrar únicamente el cantón seleccionado al hacer clic desde el menú */
+    h2[id^="Cantón"]:target,
+    h2[id^="Cantón"]:target + p,
+    h2[id^="Cantón"]:target + p + a {
+        display: block;
+    }
+</style>
 </head>
 
 <h1>Datos de la Provincia de Los Ríos</h1>
 
-<a href="#Seccion_Descripcion">Ingresar a Descripcion de la provincia</a>
+<a href="#Descripcion de la provincia">Ingresar a Descripcion de la provincia</a>
 <br>
-<a href="#Seccion_Bandera">Ingresar a Imagen de la Bandera</a>
+<a href="#Imagen de la Bandera">Ingresar a Imagen de la Bandera</a>
 <br>
-<a href="#Seccion_Prefecto">Ingresar a Prefecto</a>
+<a href="#Prefecto">Ingresar a Prefecto</a>
 <br>
-<a href="#Seccion_Gobernador">Ingresar a Gobernador</a>
+<a href="#Gobernador">Ingresar a Gobernador</a>
 <br>
-<a href="#Seccion_PoblacionProv">Ingresar a Población</a>
+<a href="#Población">Ingresar a Población</a>
 <br>
-<a href="#Seccion_MapaProv">Ingresar a Mapa</a>
+<a href="#Mapa">Ingresar a Mapa</a>
 <br>
-<a href="#Seccion_Fecha">Ingresar a Fecha</a>
+<a href="#Fecha">Ingresar a Fecha</a>
 <br>
-<a href="#Caratula_Cantones">Ir a Sección: Menu: Cantones</a>
+<a href="#Sección: Menu: Cantones">Ir a Sección: Menu: Cantones</a>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
@@ -30,9 +44,9 @@
 <p>
 Los Ríos es una de las provincias de la región litoral del Ecuador, caracterizada por su alta productividad agrícola, sus extensas cuencas hidrográficas y su variada cultura montubia.
 </p>
-<a href="#">Volver a la Carátula Principal</a>
+<a href="#">Volver a al Menú Principal</a>
 
-<h2 id="Seccion_Bandera"><b>Imagen de la Bandera</b></h2>
+<h2 id="Imagen de la Bandera"><b>Imagen de la Bandera</b></h2>
 <p>
 <img src="bandera.jpg">
 </p>
@@ -44,29 +58,29 @@ El prefecto actual es el Sr. Johnny Terán Salcedo.
 </p>
 <a href="#">Volver a la Carátula Principal</a>
 
-<h2 id="Seccion_Gobernador"><b>Gobernador</b></h2>
+<h2 id="Gobernador"><b>Gobernador</b></h2>
 <p>
 El gobernador de la provincia es el Sr. Luis Alfonso Chonillo.
 </p>
-<a href="#">Volver a la Carátula Principal</a>
+<a href="#">Volver al Menú Principal</a>
 
-<h2 id="Seccion_PoblacionProv"><b>Población</b></h2>
+<h2 id="Población"><b>Población</b></h2>
 <p>
 La provincia cuenta con un aproximado de 898,635 habitantes en todo su territorio.
 </p>
-<a href="#">Volver a la Carátula Principal</a>
+<a href="#">Volver al Menú Principal</a>
 
-<h2 id="Seccion_MapaProv"><b>Mapa</b></h2>
+<h2 id="Mapa"><b>Mapa</b></h2>
 <p>
 <img src="mapa_provincia.jpg">
 </p>
-<a href="#">Volver a la Carátula Principal</a>
+<a href="#">Volver al Menú Principal</a>
 
-<h2 id="Seccion_Fecha"><b>Fecha</b></h2>
+<h2 id="Fecha"><b>Fecha</b></h2>
 <p>
 Fecha de consulta del sitio web: 02 de Noviembre de 2026.
 </p>
-<a href="#">Volver a la Carátula Principal</a>
+<a href="#">Volver al Menú Principal</a>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
