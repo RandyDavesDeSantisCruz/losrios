@@ -1,25 +1,3 @@
-<html>
-<title>
-    DATOS DE LA PROVINCIA DE LOS RÍOS
-</title>
-<head>
-<style>
-    /* Ocultar todas las secciones y cantones por defecto */
-    h2[id],
-    h2[id] + p,
-    h2[id] + p + a {
-        display: none;
-    }
-
-    /* Mostrar únicamente la sección o cantón seleccionado al hacer clic */
-    h2[id]:target,
-    h2[id]:target + p,
-    h2[id]:target + p + a {
-        display: block;
-    }
-</style>
-</head>
-
 <h1>Datos de la Provincia de Los Ríos</h1>
 
 <a href="#Seccion_Descripcion">Ingresar a Descripcion de la provincia</a>
