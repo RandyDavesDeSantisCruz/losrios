@@ -167,7 +167,7 @@ Fecha de consulta del sitio web: 02 de Noviembre de 2026.
 <p>
 <img src="diana_anchundia.jpg" alt="Diana Anchundia - Alcaldesa de Buena Fe" width="300">
 </p>
-<b>Poblacion:</b> Posee una densidad de población calculada en más de 63,000 habitantes.
+<b>Población:</b> Posee una densidad de población calculada en más de 63,000 habitantes.
 <br><br>
 <b>Mapa:</b><br>
 <img src="mapa_buenafe.jpg" alt="Mapa de Buena Fe" width="300">
@@ -204,20 +204,25 @@ Fecha de consulta del sitio web: 02 de Noviembre de 2026.
 <p>
 <b>Breve descripción reseña del canton:</b> Montalvo goza de una ubicación geográfica privilegiada en las faldas de la cordillera, dándole un microclima fresco diferente a la costa tradicional.
 <br><br>
-<b>Indicar sus parroquias:</b> Este cantón cuenta únicamente con su cabecera cantonal urbana (Montalvo), no poseyendo parroquias rurales delimitadas jurídicamente.
+<b>Parroquias:</b> Este cantón cuenta únicamente con su cabecera cantonal urbana (Montalvo), no poseyendo parroquias rurales delimitadas jurídicamente.
 <br><br>
-<b>Platos de comida típicos:</b> Es sumamente popular por su fritada montalvina, los tamales de maíz y los secos de pato criollo.
+<b>Platos de comida típicos:</b> En su mesa tradicional sobresale el encanutado de bocachico, el seco de gallina criolla, los bollos de pescado, la tonga y los deliciosos platos preparados a base de pescado de río asado en hojas de plátano.
+<p>
+<img src="encanutado_de_bocachico.jpg" alt="Encanutado de bocachico" width="300">
+</p>
 <br><br>
-<b>Luagres turísticos y por que es turístico:</b> Es turístico gracias a sus ríos de agua cristalina y lechos de piedra, así como numerosos complejos recreacionales dotados de piscinas e infraestructura vacacional.
+<b>Lugares turísticos y por que es turístico:</b> Es turístico gracias a sus ríos de agua cristalina y lechos de piedra, así como numerosos complejos recreacionales dotados de piscinas e infraestructura vacacional.
 <br><br>
 <b>Hoteles donde alojarse:</b> Cuenta con hosterías campestres de descanso completo como la Hostería San José.
 <br><br>
-<b>Alcalde:</b> El alcalde al frente de la municipalidad es el Sr. Eduardo Troncoso.
-<br><br>
+<b>Alcalde:</b> Eduardo Troncoso - Alcalde de Montalvo
+<p>
+<img src="eduardo_troncoso.jpg" alt="Eduardo Troncoso - Alcalde de Montalvo" width="300">
+</p>
 <b>Poblacion:</b> Su densidad poblacional total se calcula en 24,000 habitantes.
 <br><br>
 <b>Mapa:</b><br>
-<img src="mapa_montalvo.jpg">
+<img src="mapa_montalvo.jpg" alt="Mapa de Montalvo" width="300">
 </p>
 <a href="#Menú de Cantones">Volver al Menú de Cantones</a>
 
