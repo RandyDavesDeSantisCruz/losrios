@@ -63,7 +63,7 @@ La provincia cuenta con un aproximado de 898,635 habitantes en todo su territori
 
 <h2 id="Fecha"><b>Fecha</b></h2>
 <p>
-Fecha de consulta del sitio web: 02 de Noviembre de 2026.
+La fecha de la provincia es el 6 de Octubre debido a que el 6 de Octubre de 1860 la provincia fue creada a partir de partes de Guayas y Chimborazo
 </p>
 <a href="#">Volver al Menú Principal</a>
 
