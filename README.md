@@ -1,8 +1,5 @@
 <html>
 
-<head>
-</head>
-
 <h1>Datos de la Provincia de Los Ríos</h1>
 <a href="#Seccion_Descripcion">Ingresar a Descripcion de la provincia</a>
 <br>
@@ -66,7 +63,7 @@ La fecha de la provincia es el 6 de Octubre debido a que el 6 de Octubre de 1860
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<h1 id="Caratula_Cantones">Menu: Cantones</h1>
+<h1 id="Menú de Cantones">Menu: Cantones</h1>
 
 <a href="#Cantón Baba">Ingresar a Baba</a>
 <br>
