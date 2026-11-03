@@ -208,7 +208,7 @@ Fecha de consulta del sitio web: 02 de Noviembre de 2026.
 <br><br>
 <b>Platos de comida típicos:</b> En su mesa tradicional sobresale el encanutado de bocachico, el seco de gallina criolla, los bollos de pescado, la tonga y los deliciosos platos preparados a base de pescado de río asado en hojas de plátano.
 <p>
-<img src="encanutado_de_bocachico.jpg" alt="Encanutado de bocachico" width="300">
+<img src="bollo_de_pescado.jpg" alt="Bollo de pescado" width="300">
 </p>
 <br><br>
 <b>Lugares turísticos y por que es turístico:</b> Es turístico gracias a sus ríos de agua cristalina y lechos de piedra, así como numerosos complejos recreacionales dotados de piscinas e infraestructura vacacional.
@@ -230,43 +230,53 @@ Fecha de consulta del sitio web: 02 de Noviembre de 2026.
 <p>
 <b>Breve descripción reseña del canton:</b> Palenque fue cantonizado oficialmente el 2 de agosto de 1990. Es una tierra históricamente conocida como la cuna del prócer de la independencia Nicolás Infante Díaz, y destaca a nivel nacional por su inmensa producción de maíz, cacao y por preservar la herencia cultural del montubio ecuatoriano.
 <br><br>
-<b>Indicar sus parroquias:</b> El territorio está constituido únicamente por su cabecera cantonal mediante la parroquia urbana de Palenque, complementándose de forma directa con sus recintos y comunidades del sector rural.
+<b>Parroquias:</b> El territorio está constituido únicamente por su cabecera cantonal mediante la parroquia urbana de Palenque, complementándose de forma directa con sus recintos y comunidades del sector rural.
 <br><br>
-<b>Platos de comida típicos:</b> Su gastronomía típica se compone principalmente del tradicional seco de gallina criolla, el bollo de pescado, la cazuela y la tonga de gallina preparada de forma artesanal en el campo.
+<b>Platos de comida típicos:</b> Su gastronomía típica se compone principalmente del tradicional seco de gallina criolla, el bollo de pescado, la cazuela de pescado y la tonga de gallina preparada de forma artesanal en el campo.
+<p>
+<img src="cazuela_de_pescado.jpg" alt="Cazuela de pescado" width="300">
+</p>
 <br><br>
-<b>Luagres turísticos y por que es turístico:</b> Es turístico debido a las hermosas playas fluviales que se forman en el Río Vinces (como la playa de La Reveza), la Reserva Ecológica Jauneche que atrae a investigadores y amantes de la naturaleza, y sus fiestas tradicionales del rodeo montubio.
+<b>Lugares turísticos y por que es turístico:</b> Es turístico debido a las hermosas playas fluviales que se forman en el Río Vinces (como la playa de La Reveza), la Reserva Ecológica Jauneche que atrae a investigadores y amantes de la naturaleza, y sus fiestas tradicionales del rodeo montubio.
 <br><br>
 <b>Hoteles donde alojarse:</b> Los viajeros se hospedan en pensiones familiares y hostales del casco central o recurren al hospedaje en los cantones cercanos de Vinces o Ventanas por su gran proximidad vial.
 <br><br>
-<b>Alcalde:</b> La administración municipal se encuentra bajo el liderazgo de las autoridades locales vigentes.
-<br><br>
+<b>Alcalde:</b> Jordy Carriel - Alcalde de Palenque
+<p>
+<img src="jordy_carriel.jpg" alt="Jordy Carriel - Alcalde de Palenque" width="300">
+</p>
 <b>Poblacion:</b> Cuenta con una población estimada que ronda los 25,000 habitantes en su territorio cantonal.
 <br><br>
 <b>Mapa:</b><br>
-<img src="mapa_palenque.jpg">
+<img src="mapa_palenque.jpeg" alt="Mapa de Palenque" width="300">
 </p>
-<a href="#Caratula_Cantones">Volver al Menú de Cantones</a>
+<a href="#Menú de Cantones">Volver al Menú de Cantones</a>
 
 <h2 id="Cantón Puebloviejo"><b>Cantón Puebloviejo</b></h2>
 <p>
 <b>Breve descripción reseña del canton:</b> El cantón San Francisco de Puebloviejo fue fundado históricamente el 7 de febrero de 1846. Es conocido tradicionalmente como "El Corazón de Los Ríos" debido a su ubicación geográfica céntrica y destaca por ser uno de los principales productores y exportadores de banano y cacao de la provincia.
 <br><br>
-<b>Indicar sus parroquias:</b> Está constituido por su cabecera cantonal mediante la parroquia urbana de Puebloviejo, y por las parroquias rurales de San Juan y Puerto Pechiche.
+<b>Parroquias:</b> Está constituido por su cabecera cantonal mediante la parroquia urbana de Puebloviejo, y por las parroquias rurales de San Juan y Puerto Pechiche.
 <br><br>
 <b>Platos de comida típicos:</b> Su mesa tradicional es famosa por el auténtico seco de gallina criolla, el seco de pato, los bollos de pescado y el tradicional sándwich de chancho.
+<p>
+<img src="seco_de_pato.jpg" alt="Seco de pato" width="300">
+</p>
 <br><br>
-<b>Luagres turísticos y por que es turístico:</b> Es turístico debido a sus pintorescas calles adornadas con tradicionales casas antiguas de madera, la Iglesia Central de San Francisco de Asís, diversos yacimientos arqueológicos en forma de tolas preincaicas, y sus festividades cívicas y religiosas.
+<b>Lugares turísticos y por que es turístico:</b> Es turístico debido a sus pintorescas calles adornadas con tradicionales casas antiguas de madera, la Iglesia Central de San Francisco de Asís, diversos yacimientos arqueológicos en forma de tolas preincaicas, y sus festividades cívicas y religiosas.
 <br><br>
 <b>Hoteles donde alojarse:</b> Los visitantes recurren a hostales y pensiones de paso en el casco comercial central o aprovechan la infraestructura hotelera de los cantones colindantes de Babahoyo y Ventanas debido a la fluida conexión vial.
 <br><br>
 <b>Alcalde:</b> La administración municipal se encuentra bajo el liderazgo de la alcaldesa Elsy Ospina Garcés.
 <br><br>
-<b>Poblacion:</b> Cuenta con una población estimada que ronda los 46,800 habitantes en su territorio cantonal.
-<br><br>
-<b>Mapa:</b><br>
-<img src="mapa_puebloviejo.jpg">
+<b>Alcalde:</b> Elsy Ospina - Alcaldesa de Puebloviejo
+<p>
+<img src="elsy_ospina.jpg" alt="Elsy Ospina - Alcaldesa de Puebloviejo" width="300">
 </p>
-<a href="#Caratula_Cantones">Volver al Menú de Cantones</a>
+<b>Mapa:</b><br>
+<img src="mapa_puebloviejo.jpg" alt="Mapa de Puebloviejo" width="300">
+</p>
+<a href="#Menú de Cantones">Volver al Menú de Cantones</a>
 
 <h2 id="Cantón Quevedo"><b>Cantón Quevedo</b></h2>
 <p>
