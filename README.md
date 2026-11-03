@@ -1,68 +1,31 @@
-<!DOCTYPE html>
-<html lang="es">
+<html>
+<title>
+
+    DATOS DE LA PROVINCIA DE LOS RÍOS
+
+</title>
+
 <head>
-    <meta charset="UTF-8">
-    <title>DATOS DE LA PROVINCIA DE LOS RÍOS</title>
 </head>
-<body>
-    <h1>Datos de la Provincia de Los Ríos</h1>
 
-    <a href="descripcion.html" target="_blank">Ingresar a Descripción de la provincia</a>
-    <br>
-    <a href="bandera.html" target="_blank">Ingresar a Imagen de la Bandera</a>
-    <br>
-    <a href="prefecto.html" target="_blank">Ingresar a Prefecto</a>
-    <br>
-    <a href="gobernador.html" target="_blank">Ingresar a Gobernador</a>
-    <br>
-    <a href="poblacion.html" target="_blank">Ingresar a Población</a>
-    <br>
-    <a href="mapa.html" target="_blank">Ingresar a Mapa</a>
-    <br>
-    <a href="fecha.html" target="_blank">Ingresar a Fecha</a>
-    <br>
-    <a href="cantones.html" target="_blank">Ir a Sección: Menú: Cantones</a>
-</body>
-</html>
+<h1>Datos de la Provincia de Los Ríos</h1>
+<a href="#Seccion_Descripcion">Ingresar a Descripcion de la provincia</a>
+<br>
+<a href="#Imagen de la Bandera">Ingresar a Imagen de la Bandera</a>
+<br>
+<a href="#Seccion_Prefecto">Ingresar a Prefecto</a>
+<br>
+<a href="#Gobernador">Ingresar a Gobernador</a>
+<br>
+<a href="#Población">Ingresar a Población</a>
+<br>
+<a href="#Mapa">Ingresar a Mapa</a>
+<br>
+<a href="#Fecha">Ingresar a Fecha</a>
+<br>
+<a href="#Menú de Cantones">Ir a Sección: Menu: Cantones</a>
 
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <title>Menú: Cantones - Los Ríos</title>
-</head>
-<body>
-    <h1>Menú: Cantones</h1>
-
-    <a href="baba.html" target="_blank">Ingresar a Baba</a>
-    <br>
-    <a href="babahoyo.html" target="_blank">Ingresar a Babahoyo</a>
-    <br>
-    <a href="buenafe.html" target="_blank">Ingresar a Buena Fe</a>
-    <br>
-    <a href="mocache.html" target="_blank">Ingresar a Mocache</a>
-    <br>
-    <a href="montalvo.html" target="_blank">Ingresar a Montalvo</a>
-    <br>
-    <a href="palenque.html" target="_blank">Ingresar a Palenque</a>
-    <br>
-    <a href="puebloviejo.html" target="_blank">Ingresar a Puebloviejo</a>
-    <br>
-    <a href="quevedo.html" target="_blank">Ingresar a Quevedo</a>
-    <br>
-    <a href="quinsaloma.html" target="_blank">Ingresar a Quinsaloma</a>
-    <br>
-    <a href="urdaneta.html" target="_blank">Ingresar a Urdaneta</a>
-    <br>
-    <a href="valencia.html" target="_blank">Ingresar a Valencia</a>
-    <br>
-    <a href="ventanas.html" target="_blank">Ingresar a Ventanas</a>
-    <br>
-    <a href="vinces.html" target="_blank">Ingresar a Vinces</a>
-    <br><br>
-    <a href="index.html" target="_blank">Volver al Menú Principal de la Provincia</a>
-</body>
-</html>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 id="Seccion_Descripcion"><b>Descripcion de la provincia</b></h2>
 <p>
