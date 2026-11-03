@@ -1,21 +1,96 @@
-<html>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Datos de la Provincia de Los Ríos</title>
+<style>
+  .opciones {
+    position: sticky;
+    top: 0;
+    background: #f4f4f4;
+    padding: 10px 16px;
+    border-bottom: 1px solid #ccc;
+    font-family: Arial, sans-serif;
+    z-index: 10;
+  }
+  .opciones label {
+    cursor: pointer;
+  }
+  .opciones small {
+    display: block;
+    color: #666;
+    margin-top: 4px;
+  }
+  [id] {
+    scroll-margin-top: 60px;
+  }
+  /* Los artículos de los cantones están ocultos hasta que se abren desde su enlace */
+  .articulo-canton {
+    display: none;
+  }
+  .articulo-canton.abierto {
+    display: block;
+  }
+  .panel-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 100;
+  }
+  .panel-overlay[hidden] {
+    display: none;
+  }
+  .panel-caja {
+    background: #fff;
+    width: 92%;
+    max-width: 800px;
+    max-height: 90vh;
+    overflow-y: auto;
+    padding: 16px;
+    border-radius: 8px;
+  }
+  .panel-caja button {
+    cursor: pointer;
+    margin-bottom: 10px;
+  }
+  .panel-aviso {
+    font-family: Arial, sans-serif;
+    color: #7a5b00;
+    background: #fff3cd;
+    padding: 8px;
+  }
+</style>
+</head>
+<body>
+
+<div class="opciones">
+  <label>
+    <input type="checkbox" id="abrirEnVentana">
+    Abrir las demás secciones en una nueva ventana
+  </label>
+  <small>(los cantones siempre se abren en una ventana aparte)</small>
+</div>
 
 <h1>Datos de la Provincia de Los Ríos</h1>
 <a href="#Seccion_Descripcion">Ingresar a Descripcion de la provincia</a>
 <br>
-<a href="#Imagen de la Bandera">Ingresar a Imagen de la Bandera</a>
+<a href="#imagen-bandera">Ingresar a Imagen de la Bandera</a>
 <br>
-<a href="#Seccion_Prefecto">Ingresar a Prefecto</a>
+<a href="#Prefecto">Ingresar a Prefecto</a>
 <br>
 <a href="#Gobernador">Ingresar a Gobernador</a>
 <br>
-<a href="#Población">Ingresar a Población</a>
+<a href="#poblacion">Ingresar a Población</a>
 <br>
 <a href="#Mapa">Ingresar a Mapa</a>
 <br>
 <a href="#Fecha">Ingresar a Fecha</a>
 <br>
-<a href="#Menú de Cantones">Ir a Sección: Menu: Cantones</a>
+<a href="#menu-cantones">Ir a Sección: Menu: Cantones</a>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
@@ -25,7 +100,7 @@ Los Ríos es una de las provincias de la región litoral del Ecuador, caracteriz
 </p>
 <a href="#">Volver al Menú Principal</a>
 
-<h2 id="Imagen de la Bandera"><b>Imagen de la Bandera</b></h2>
+<h2 id="imagen-bandera"><b>Imagen de la Bandera</b></h2>
 <p>
 <img src="bandera_losrios.jpg" alt="Bandera de Los Ríos" width="300">
 </p>
@@ -43,7 +118,7 @@ Los Ríos es una de las provincias de la región litoral del Ecuador, caracteriz
 </p>
 <a href="#">Volver al Menú Principal</a>
 
-<h2 id="Población"><b>Población</b></h2>
+<h2 id="poblacion"><b>Población</b></h2>
 <p>
 La provincia cuenta con un aproximado de 898,635 habitantes en todo su territorio.
 </p>
@@ -63,39 +138,40 @@ La fecha de la provincia es el 6 de Octubre debido a que el 6 de Octubre de 1860
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<h1 id="Menú de Cantones">Menu: Cantones</h1>
+<h1 id="menu-cantones">Menu: Cantones</h1>
 
-<a href="#Cantón Baba">Ingresar a Baba</a>
+<a href="#baba">Ingresar a Baba</a>
 <br>
-<a href="#Cantón Babahoyo">Ingresar a Babahoyo</a>
+<a href="#babahoyo">Ingresar a Babahoyo</a>
 <br>
-<a href="#Cantón Buena Fe">Ingresar a Buena Fe</a>
+<a href="#buena-fe">Ingresar a Buena Fe</a>
 <br>
-<a href="#Cantón Mocache">Ingresar a Mocache</a>
+<a href="#mocache">Ingresar a Mocache</a>
 <br>
-<a href="#Cantón Montalvo">Ingresar a Montalvo</a>
+<a href="#montalvo">Ingresar a Montalvo</a>
 <br>
-<a href="#Cantón Palenque">Ingresar a Palenque</a>
+<a href="#palenque">Ingresar a Palenque</a>
 <br>
-<a href="#Cantón Puebloviejo">Ingresar a Puebloviejo</a>
+<a href="#puebloviejo">Ingresar a Puebloviejo</a>
 <br>
-<a href="#Cantón Quevedo">Ingresar a Quevedo</a>
+<a href="#quevedo">Ingresar a Quevedo</a>
 <br>
-<a href="#Cantón Quinsaloma">Ingresar a Quinsaloma</a>
+<a href="#quinsaloma">Ingresar a Quinsaloma</a>
 <br>
-<a href="#Cantón Urdaneta">Ingresar a Urdaneta</a>
+<a href="#urdaneta">Ingresar a Urdaneta</a>
 <br>
-<a href="#Cantón Valencia">Ingresar a Valencia</a>
+<a href="#valencia">Ingresar a Valencia</a>
 <br>
-<a href="#Cantón Ventanas">Ingresar a Ventanas</a>
+<a href="#ventanas">Ingresar a Ventanas</a>
 <br>
-<a href="#Cantón Vinces">Ingresar a Vinces</a>
+<a href="#vinces">Ingresar a Vinces</a>
 <br>
 <a href="#">Volver al Menú Principal de la Provincia</a>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<h2 id="Cantón Baba"><b>Cantón Baba</b></h2>
+<section class="articulo-canton" id="baba">
+<h2><b>Cantón Baba</b></h2>
 <p>
 <b>Breve descripción reseña del canton:</b> Baba es uno de los cantones más antiguos de la provincia, apodado históricamente como "La Noble y Torera" por su valiente participación en las rebeliones criollas contra el yugo español.
 <br><br>
@@ -119,9 +195,11 @@ La fecha de la provincia es el 6 de Octubre debido a que el 6 de Octubre de 1860
 <b>Mapa:</b><br>
 <img src="mapa_baba.jpeg" alt="Mapa de Baba" width="300">
 </p>
-<a href="#Menú de Cantones">Volver al Menú de Cantones</a>
+<a href="#menu-cantones">Volver al Menú de Cantones</a>
+</section>
 
-<h2 id="Cantón Babahoyo"><b>Cantón Babahoyo</b></h2>
+<section class="articulo-canton" id="babahoyo">
+<h2><b>Cantón Babahoyo</b></h2>
 <p>
 <b>Breve descripción reseña del cantón:</b> Babahoyo es la capital de la provincia de Los Ríos y fue fundada el 30 de septiembre de 1948. Es una ciudad de enorme trascendencia comercial, fluvial e histórica, conocida tradicionalmente por sus casas flotantes sobre el río y su fuerte nexo con la identidad montubia.
 <br><br>
@@ -145,9 +223,11 @@ La fecha de la provincia es el 6 de Octubre debido a que el 6 de Octubre de 1860
 <b>Mapa:</b><br>
 <img src="mapa_babahoyo.jpeg" alt="Mapa de Babahoyo" width="300">
 </p>
-<a href="#Menú de Cantones">Volver al Menú de Cantones</a>
+<a href="#menu-cantones">Volver al Menú de Cantones</a>
+</section>
 
-<h2 id="Cantón Buena Fe"><b>Cantón Buena Fe</b></h2>
+<section class="articulo-canton" id="buena-fe">
+<h2><b>Cantón Buena Fe</b></h2>
 <p>
 <b>Breve descripción reseña del canton:</b> San Jacinto de Buena Fe es un cantón con un acelerado crecimiento comercial y agrícola, estratégico por conectar rutas de transporte nacionales primarias.
 <br><br>
@@ -171,9 +251,11 @@ La fecha de la provincia es el 6 de Octubre debido a que el 6 de Octubre de 1860
 <b>Mapa:</b><br>
 <img src="mapa_buenafe.jpg" alt="Mapa de Buena Fe" width="300">
 </p>
-<a href="#Menú de Cantones">Volver al Menú de Cantones</a>
+<a href="#menu-cantones">Volver al Menú de Cantones</a>
+</section>
 
-<h2 id="Cantón Mocache"><b>Cantón Mocache</b></h2>
+<section class="articulo-canton" id="mocache">
+<h2><b>Cantón Mocache</b></h2>
 <p>
 <b>Breve descripción reseña del canton:</b> El cantón Mocache fue creado oficialmente el 28 de mayo de 1996. Es considerado una zona agrícola de altísima importancia en la provincia, destacando su producción de maíz, cacao y café, y poseyendo un arraigo muy profundo en las tradiciones del campo y la cultura montubia.
 <br><br>
@@ -197,9 +279,11 @@ La fecha de la provincia es el 6 de Octubre debido a que el 6 de Octubre de 1860
 <b>Mapa:</b><br>
 <img src="mapa_mocache.jpg" alt="Mapa de Mocache" width="300">
 </p>
-<a href="#Menú de Cantones">Volver al Menú de Cantones</a>
+<a href="#menu-cantones">Volver al Menú de Cantones</a>
+</section>
 
-<h2 id="Cantón Montalvo"><b>Cantón Montalvo</b></h2>
+<section class="articulo-canton" id="montalvo">
+<h2><b>Cantón Montalvo</b></h2>
 <p>
 <b>Breve descripción reseña del canton:</b> Montalvo goza de una ubicación geográfica privilegiada en las faldas de la cordillera, dándole un microclima fresco diferente a la costa tradicional.
 <br><br>
@@ -223,9 +307,11 @@ La fecha de la provincia es el 6 de Octubre debido a que el 6 de Octubre de 1860
 <b>Mapa:</b><br>
 <img src="mapa_montalvo.png" alt="Mapa de Montalvo" width="300">
 </p>
-<a href="#Menú de Cantones">Volver al Menú de Cantones</a>
+<a href="#menu-cantones">Volver al Menú de Cantones</a>
+</section>
 
-<h2 id="Cantón Palenque"><b>Cantón Palenque</b></h2>
+<section class="articulo-canton" id="palenque">
+<h2><b>Cantón Palenque</b></h2>
 <p>
 <b>Breve descripción reseña del canton:</b> Palenque fue cantonizado oficialmente el 2 de agosto de 1990. Es una tierra históricamente conocida como la cuna del prócer de la independencia Nicolás Infante Díaz, y destaca a nivel nacional por su inmensa producción de maíz, cacao y por preservar la herencia cultural del montubio ecuatoriano.
 <br><br>
@@ -249,9 +335,11 @@ La fecha de la provincia es el 6 de Octubre debido a que el 6 de Octubre de 1860
 <b>Mapa:</b><br>
 <img src="mapa_palenque.jpeg" alt="Mapa de Palenque" width="300">
 </p>
-<a href="#Menú de Cantones">Volver al Menú de Cantones</a>
+<a href="#menu-cantones">Volver al Menú de Cantones</a>
+</section>
 
-<h2 id="Cantón Puebloviejo"><b>Cantón Puebloviejo</b></h2>
+<section class="articulo-canton" id="puebloviejo">
+<h2><b>Cantón Puebloviejo</b></h2>
 <p>
 <b>Breve descripción reseña del canton:</b> El cantón San Francisco de Puebloviejo fue fundado históricamente el 7 de febrero de 1846. Es conocido tradicionalmente como "El Corazón de Los Ríos" debido a su ubicación geográfica céntrica y destaca por ser uno de los principales productores y exportadores de banano y cacao de la provincia.
 <br><br>
@@ -277,9 +365,11 @@ La fecha de la provincia es el 6 de Octubre debido a que el 6 de Octubre de 1860
 <b>Mapa:</b><br>
 <img src="mapa_puebloviejo.png" alt="Mapa de Puebloviejo" width="300">
 </p>
-<a href="#Menú de Cantones">Volver al Menú de Cantones</a>
+<a href="#menu-cantones">Volver al Menú de Cantones</a>
+</section>
 
-<h2 id="Cantón Quevedo"><b>Cantón Quevedo</b></h2>
+<section class="articulo-canton" id="quevedo">
+<h2><b>Cantón Quevedo</b></h2>
 <p>
 <b>Breve descripción reseña del canton:</b> El cantón Quevedo fue creado oficialmente el 7 de octubre de 1943. Es conocido como la "Capital Económica de Los Ríos" y la "Ciudad del Río" debido a su gigantesco movimiento comercial, financiero e industrial, consolidándose como uno de los polos de desarrollo más dinámicos del país.
 <br><br>
@@ -298,14 +388,16 @@ La fecha de la provincia es el 6 de Octubre debido a que el 6 de Octubre de 1860
 <p>
 <img src="alexis_matute.jpg" alt="Alexis Matute - Alcalde de Quevedo" width="300">
 </p>
-<b>Poblacion:</b> Cuenta con una población censada de 206,008 habitantes, siendo el cantón más poblado y con mayor densidad de la provincia.
+<b>Población:</b> Cuenta con una población censada de 206,008 habitantes, siendo el cantón más poblado y con mayor densidad de la provincia.
 <br><br>
 <b>Mapa:</b><br>
 <img src="mapa_quevedo.png" alt="Mapa de Quevedo" width="300">
 </p>
-<a href="#Menú de Cantones">Volver al Menú de Cantones</a>
+<a href="#menu-cantones">Volver al Menú de Cantones</a>
+</section>
 
-<h2 id="Cantón Quinsaloma"><b>Cantón Quinsaloma</b></h2>
+<section class="articulo-canton" id="quinsaloma">
+<h2><b>Cantón Quinsaloma</b></h2>
 <p>
 <b>Breve descripción reseña del canton:</b> Quinsaloma es el cantón más joven de la provincia de Los Ríos, creado oficialmente el 20 de noviembre de 2007. Su nombre proviene de la unión de "Quinsa" (tres en quichua) y "Loma", y es una zona eminentemente agrícola, famosa por sus extensas plantaciones de naranja, cacao, café y madera de exportación.
 <br><br>
@@ -329,9 +421,11 @@ La fecha de la provincia es el 6 de Octubre debido a que el 6 de Octubre de 1860
 <b>Mapa:</b><br>
 <img src="mapa_quinsaloma.png" alt="Mapa de Quinsaloma" width="300">
 </p>
-<a href="#Menú de Cantones">Volver al Menú de Cantones</a>
+<a href="#menu-cantones">Volver al Menú de Cantones</a>
+</section>
 
-<h2 id="Cantón Urdaneta"><b>Cantón Urdaneta</b></h2>
+<section class="articulo-canton" id="urdaneta">
+<h2><b>Cantón Urdaneta</b></h2>
 <p>
 <b>Breve descripción reseña del canton:</b> El cantón Urdaneta fue fundado oficialmente el 11 de octubre de 1913. Su nombre rinde homenaje al prócer Capitán Luis Urdaneta y es una zona históricamente rica y de gran productividad agrícola, destacando principalmente en la producción de cacao fino de aroma, café, arroz y banano.
 <br><br>
@@ -355,9 +449,11 @@ La fecha de la provincia es el 6 de Octubre debido a que el 6 de Octubre de 1860
 <b>Mapa:</b><br>
 <img src="mapa_urdaneta.jpg" alt="Mapa de Urdaneta" width="300">
 </p>
-<a href="#Menú de Cantones">Volver al Menú de Cantones</a>
+<a href="#menu-cantones">Volver al Menú de Cantones</a>
+</section>
 
-<h2 id="Cantón Valencia"><b>Cantón Valencia</b></h2>
+<section class="articulo-canton" id="valencia">
+<h2><b>Cantón Valencia</b></h2>
 <p>
 <b>Breve descripción reseña del canton:</b> El cantón Valencia fue creado oficialmente el 29 de diciembre de 1995. Es conocido tradicionalmente como el "Jardín de Los Ríos" debido a la exuberante belleza de sus paisajes naturales y su altísima fertilidad agrícola, destacando a nivel internacional por sus masivas exportaciones de banano, palma africana y cacao.
 <br><br>
@@ -380,11 +476,13 @@ La fecha de la provincia es el 6 de Octubre debido a que el 6 de Octubre de 1860
 <b>Poblacion:</b> Cuenta con una población estimada que ronda los 47,300 habitantes en su territorio cantonal.
 <br><br>
 <b>Mapa:</b><br>
-<img src="mapa_urdaneta.jpg" alt="Mapa de Urdaneta" width="300">
+<img src="mapa_valencia.jpg" alt="Mapa de Valencia" width="300">
 </p>
-<a href="#Menú de Cantones">Volver al Menú de Cantones</a>
+<a href="#menu-cantones">Volver al Menú de Cantones</a>
+</section>
 
-<h2 id="Cantón Ventanas"><b>Cantón Ventanas</b></h2>
+<section class="articulo-canton" id="ventanas">
+<h2><b>Cantón Ventanas</b></h2>
 <p>
 <b>Breve descripción reseña del canton:</b> El cantón Ventanas fue creado oficialmente el 10 de noviembre de 1952. Es ampliamente conocido a nivel nacional como la "Capital Maicera del Ecuador" debido a su gigantesca producción y comercialización de maíz amarillo, consolidándose como un eje agrícola fundamental para la economía de la provincia de Los Ríos.
 <br><br>
@@ -409,9 +507,11 @@ La fecha de la provincia es el 6 de Octubre debido a que el 6 de Octubre de 1860
 <b>Mapa:</b><br>
 <img src="mapa_ventanas.jpg" alt="Mapa de Ventanas" width="300">
 </p>
-<a href="#Menú de Cantones">Volver al Menú de Cantones</a>
+<a href="#menu-cantones">Volver al Menú de Cantones</a>
+</section>
 
-<h2 id="Cantón Vinces"><b>Cantón Vinces</b></h2>
+<section class="articulo-canton" id="vinces">
+<h2><b>Cantón Vinces</b></h2>
 <p>
 <b>Breve descripción reseña del canton:</b> El cantón Vinces fue creado oficialmente el 14 de junio de 1845. Es mundialmente conocido como "Paris Chiquito" debido al auge económico de la época gran cacaotera de finales del siglo XIX, donde las familias ricas viajaban a Francia e imitaban su estilo de vida y arquitectura. Es una cuna cultural montubia única en el país.
 <br><br>
@@ -436,6 +536,136 @@ La fecha de la provincia es el 6 de Octubre debido a que el 6 de Octubre de 1860
 <b>Mapa:</b><br>
 <img src="mapa_vinces.jpeg" alt="Mapa de Vinces" width="300">
 </p>
-<a href="#Menú de Cantones">Volver al Menú de Cantones</a>
+<a href="#menu-cantones">Volver al Menú de Cantones</a>
+</section>
 
+<div id="panel" class="panel-overlay" hidden>
+  <div class="panel-caja">
+    <button type="button" id="cerrarPanel">Cerrar ✕</button>
+    <p class="panel-aviso" id="panelAviso"></p>
+    <div id="panelContenido"></div>
+  </div>
+</div>
+
+<script>
+  const casilla = document.getElementById('abrirEnVentana');
+  const articulos = document.querySelectorAll('.articulo-canton');
+  const pagina = location.href.split('#')[0];
+  const puedeAbrirVentanas = /^(file:|https?:)/.test(pagina);
+
+  // Muestra un destino dentro de esta página (solo si el navegador bloquea la ventana)
+  function irAEnPagina(id) {
+    articulos.forEach(function (articulo) {
+      articulo.classList.remove('abierto');
+    });
+    if (!id) {
+      window.scrollTo(0, 0);
+      return;
+    }
+    const destino = document.getElementById(id);
+    if (!destino) return;
+    if (destino.classList.contains('articulo-canton')) {
+      destino.classList.add('abierto');
+    }
+    destino.scrollIntoView();
+  }
+
+  // Si el visor no permite páginas nuevas, el cantón se muestra en un panel sobre la página
+  function mostrarEnPanel(articulo) {
+    const contenido = document.getElementById('panelContenido');
+    contenido.innerHTML = '';
+    const copia = articulo.cloneNode(true);
+    copia.querySelectorAll('a').forEach(function (a) {
+      a.remove();
+    });
+    contenido.appendChild(copia);
+    document.getElementById('panelAviso').textContent =
+      'Tu navegador o visor no permite abrir páginas nuevas, así que el contenido se muestra aquí. ' +
+      'Para verlo en una página nueva, abre el archivo directamente en Chrome, Edge o Firefox.';
+    document.getElementById('panel').hidden = false;
+  }
+
+  function cerrarPanel() {
+    document.getElementById('panel').hidden = true;
+    document.getElementById('panelContenido').innerHTML = '';
+  }
+
+  document.getElementById('cerrarPanel').addEventListener('click', cerrarPanel);
+  document.getElementById('panel').addEventListener('click', function (e) {
+    if (e.target.id === 'panel') cerrarPanel();
+  });
+
+  // Abre un cantón en una página nueva, sin sus enlaces de navegación
+  function abrirCantonEnVentana(articulo) {
+    const ventana = window.open('', '_blank');
+    if (!ventana) return false;
+
+    const doc = ventana.document;
+    doc.title = articulo.querySelector('h2').textContent;
+
+    if (puedeAbrirVentanas) {
+      const base = doc.createElement('base');
+      base.href = pagina;
+      doc.head.appendChild(base);
+    }
+
+    const estilo = doc.createElement('style');
+    estilo.textContent = 'body{font-family:Arial,sans-serif;max-width:800px;margin:20px auto;padding:0 16px}' +
+                         'img{max-width:100%;height:auto}';
+    doc.head.appendChild(estilo);
+
+    const copia = articulo.cloneNode(true);
+    copia.querySelectorAll('a').forEach(function (a) {
+      a.remove();
+    });
+    doc.body.appendChild(copia);
+
+    const cerrar = doc.createElement('button');
+    cerrar.textContent = 'Cerrar';
+    cerrar.onclick = function () {
+      ventana.close();
+    };
+    doc.body.appendChild(cerrar);
+    return true;
+  }
+
+  document.addEventListener('click', function (e) {
+    const enlace = e.target.closest('a[href^="#"]');
+    if (!enlace) return;
+
+    const id = enlace.getAttribute('href').slice(1);
+    const destino = id ? document.getElementById(id) : null;
+
+    // Cantones: siempre en una página aparte
+    if (destino && destino.classList.contains('articulo-canton')) {
+      e.preventDefault();
+      if (!abrirCantonEnVentana(destino)) {
+        mostrarEnPanel(destino);
+      }
+      return;
+    }
+
+    // Demás secciones: en una ventana nueva solo si la casilla está marcada
+    if (casilla.checked && id && puedeAbrirVentanas) {
+      const ventana = window.open(pagina + '#' + id, '_blank');
+      if (ventana) {
+        e.preventDefault();
+        return;
+      }
+    }
+
+    e.preventDefault();
+    irAEnPagina(id);
+  });
+
+  window.addEventListener('hashchange', function () {
+    irAEnPagina(location.hash.slice(1));
+  });
+
+  if (location.hash) {
+    irAEnPagina(location.hash.slice(1));
+  }
+</script>
+
+</body>
 </html>
