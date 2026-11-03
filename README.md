@@ -37,15 +37,15 @@ Los Ríos es una de las provincias de la región litoral del Ecuador, caracteriz
 </p>
 <a href="#">Volver al Menú Principal</a>
 
-<h2 id="Seccion_Prefecto"><b>Prefecto</b></h2>
+<h2 id="Prefecto"><b>Prefecto</b></h2>
 <p>
-El prefecto actual es el Sr. Johnny Terán Salcedo.
+<img src="johnny_teran.jpg" alt="Johnny Terán - Prefecto de Los Ríos" width="300">
 </p>
 <a href="#">Volver al Menú Principal</a>
 
 <h2 id="Gobernador"><b>Gobernador</b></h2>
 <p>
-El gobernador de la provincia es el Sr. Luis Alfonso Chonillo.
+<img src="andres_rizzo.jpg" alt="Andrés Rizzo - Gobernador de Los Ríos" width="300">
 </p>
 <a href="#">Volver al Menú Principal</a>
 
@@ -57,7 +57,7 @@ La provincia cuenta con un aproximado de 898,635 habitantes en todo su territori
 
 <h2 id="Mapa"><b>Mapa</b></h2>
 <p>
-<img src="mapa_provincia.jpg">
+<img src="mapa_de_losrios.jpg" alt="Mapa de Los Ríos" width="300">
 </p>
 <a href="#">Volver al Menú Principal</a>
 
