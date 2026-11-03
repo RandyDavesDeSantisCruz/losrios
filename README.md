@@ -222,7 +222,7 @@ Fecha de consulta del sitio web: 02 de Noviembre de 2026.
 <b>Poblacion:</b> Su densidad poblacional total se calcula en 24,000 habitantes.
 <br><br>
 <b>Mapa:</b><br>
-<img src="mapa_montalvo.jpg" alt="Mapa de Montalvo" width="300">
+<img src="mapa_montalvo.png" alt="Mapa de Montalvo" width="300">
 </p>
 <a href="#Menú de Cantones">Volver al Menú de Cantones</a>
 
