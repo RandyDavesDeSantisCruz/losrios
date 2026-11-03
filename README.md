@@ -432,15 +432,15 @@ Fecha de consulta del sitio web: 02 de Noviembre de 2026.
 <br><br>
 <b>Hoteles donde alojarse:</b> Los visitantes cuentan con alojamientos cómodos y tradicionales como el Hotel Paris, Hostal El Recuerdo y diversas residenciales ubicadas en las zonas céntricas y turísticas.
 <br><br>
-<b>Alcalde:</b> Carlos Carriel - Alcalde de Ventanas
+<b>Alcalde:</b> Juan Montalván - Alcalde de Vinces
 <p>
-<img src="carlos_carriel.jpg" alt="Carlos Carriel - Alcalde de Ventanas" width="300">
+<img src="juan_montalvan.jpg" alt="Juan Montalván - Alcalde de Vinces" width="300">
 </p>
 <br><br>
 <b>Poblacion:</b> Cuenta con una población estimada que ronda los 75,000 habitantes en todo su territorio cantonal.
 <br><br>
 <b>Mapa:</b><br>
-<img src="mapa_vinces.jpg" alt="Mapa de Vinces" width="300">
+<img src="mapa_vinces.jpeg" alt="Mapa de Vinces" width="300">
 </p>
 <a href="#Menú de Cantones">Volver al Menú de Cantones</a>
 
