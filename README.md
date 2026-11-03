@@ -113,8 +113,10 @@ Fecha de consulta del sitio web: 02 de Noviembre de 2026.
 <br><br>
 <b>Hoteles donde alojarse:</b> Hostal Central Baba y Residencial La Nobleza ofrecen hospedaje cómodo en el sector céntrico.
 <br><br>
-<b>Alcalde:</b> La administración municipal está a cargo de la Ab. Jael Melo Olvera.
-<br><br>
+<b>Alcalde:</b>
+<p>
+<img src="shirley_melo.jpg" alt="Shirley Melo - Alcaldesa de Baba" width="300">
+</p>
 <b>Poblacion:</b> Su población estimada ronda los 43,000 habitantes.
 <br><br>
 <b>Mapa:</b><br>
@@ -124,11 +126,11 @@ Fecha de consulta del sitio web: 02 de Noviembre de 2026.
 
 <h2 id="Cantón Babahoyo"><b>Cantón Babahoyo</b></h2>
 <p>
-<b>Breve descripción reseña del canton:</b> Babahoyo es la capital de la provincia de Los Ríos y fue fundada el 30 de septiembre de 1948. Es una ciudad de enorme trascendencia comercial, fluvial e histórica, conocida tradicionalmente por sus casas flotantes sobre el río y su fuerte nexo con la identidad montubia.
+<b>Breve descripción reseña del cantón:</b> Babahoyo es la capital de la provincia de Los Ríos y fue fundada el 30 de septiembre de 1948. Es una ciudad de enorme trascendencia comercial, fluvial e histórica, conocida tradicionalmente por sus casas flotantes sobre el río y su fuerte nexo con la identidad montubia.
 <br><br>
-<b>Indicar sus parroquias:</b> Su territorio comprende las parroquias urbanas de Barreiro, El Salto, Camilo Ponce y Clemente Baquerizo; y las parroquias rurales de Caracol, Febres Cordero, La Unión y Pimocha.
+<b>Parroquias:</b> Su territorio comprende las parroquias urbanas de Barreiro, El Salto, Camilo Ponce y Clemente Baquerizo; y las parroquias rurales de Caracol, Febres Cordero, La Unión y Pimocha.
 <br><br>
-<b>Platos de comida típicos:</b> Es famosa a nivel nacional por el ceviche de chocho, el cazabe, el estofado de pescado, el gallo pinto y el tradicional seco de gallina criolla.
+<b>Platos de comida típicos:</b> Es famosa a nivel nacional por el estofado de pescado y el tradicional seco de gallina criolla.
 <br><br>
 <b>Luagres turísticos y por que es turístico:</b> Es un gran destino turístico por la Casa de Olmedo (donde el escritor redactó sus obras históricas), el paseo en lancha por el Río Babahoyo para observar las casas flotantes y el imponente Cerro Cacharí.
 <br><br>
@@ -139,7 +141,7 @@ Fecha de consulta del sitio web: 02 de Noviembre de 2026.
 <b>Poblacion:</b> Cuenta con una población estimada de más de 150,000 habitantes, siendo el centro urbano más denso de la provincia.
 <br><br>
 <b>Mapa:</b><br>
-<img src="https://tools.paintmaps.com/og_image/map_cropping/4-1108567841-3.jpeg" alt="Mapa" width="300">
+<img src="mapa_babahoyo.jpeg" alt="Mapa de Babahoyo" width="300">
 </p>
 <a href="#Menú de Cantones">Volver al Menú de Cantones</a>
 
