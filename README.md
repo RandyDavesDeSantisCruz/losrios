@@ -131,13 +131,17 @@ Fecha de consulta del sitio web: 02 de Noviembre de 2026.
 <b>Parroquias:</b> Su territorio comprende las parroquias urbanas de Barreiro, El Salto, Camilo Ponce y Clemente Baquerizo; y las parroquias rurales de Caracol, Febres Cordero, La Unión y Pimocha.
 <br><br>
 <b>Platos de comida típicos:</b> Es famosa a nivel nacional por el estofado de pescado y el tradicional seco de gallina criolla.
-<br><br>
-<b>Luagres turísticos y por que es turístico:</b> Es un gran destino turístico por la Casa de Olmedo (donde el escritor redactó sus obras históricas), el paseo en lancha por el Río Babahoyo para observar las casas flotantes y el imponente Cerro Cacharí.
+<p>
+<img src="seco_de_gallina.jpg" alt="Seco de gallina" width="300">
+</p>
+<b>Lugares turísticos y por que es turístico:</b> Es un gran destino turístico por la Casa de Olmedo (donde el escritor redactó sus obras históricas), el paseo en lancha por el Río Babahoyo para observar las casas flotantes y el imponente Cerro Cacharí.
 <br><br>
 <b>Hoteles donde alojarse:</b> Ofrece hospedajes como el Hotel Emperador, Hotel Central y el Hotel El Ejecutivo en su casco central.
 <br><br>
-<b>Alcalde:</b> La administración municipal actual está a cargo del alcalde ciudadano.
-<br><br>
+<b>Alcalde:</b> Gustavo Barquet - Alcalde de Babahoyo
+<p>
+<img src="gustavo_barquet.jpg" alt="Gustavo Barquet - Alcalde de Babahoyo" width="300">
+</p>
 <b>Poblacion:</b> Cuenta con una población estimada de más de 150,000 habitantes, siendo el centro urbano más denso de la provincia.
 <br><br>
 <b>Mapa:</b><br>
@@ -152,29 +156,33 @@ Fecha de consulta del sitio web: 02 de Noviembre de 2026.
 <b>Indicar sus parroquias:</b> Está constituido por la parroquia urbana de Buena Fe y la parroquia rural de Patricia Pilar.
 <br><br>
 <b>Platos de comida típicos:</b> Destacan los caldos de bola, el estofado de pescado y carnes asadas tradicionales en sus avenidas principales.
-<br><br>
-<b>Luagres turísticos y por que es turístico:</b> Es turístico debido al imponente paso del Río Baba, sus cascadas en recintos periféricos y la cercanía al proyecto hidromecánico Velasco Ibarra.
+<p>
+<img src="caldo_de_bola.jpg" alt="Caldo de bola" width="300">
+</p>
+<b>Lugares turísticos y por que es turístico:</b> Es turístico debido al imponente paso del Río Baba, sus cascadas en recintos periféricos y la cercanía al proyecto hidromecánico Velasco Ibarra.
 <br><br>
 <b>Hoteles donde alojarse:</b> Los viajeros disponen del Hotel D'Mario y el Hostal Buena Fe para su alojamiento.
 <br><br>
-<b>Alcalde:</b> El cantón es administrado por la alcaldesa Ab. Diana Anchundia Yépez.
-<br><br>
+<b>Alcalde:</b> Diana Anchundia - Alcaldesa de Buena Fe
+<p>
+<img src="diana_anchundia.jpg" alt="Diana Anchundia - Alcaldesa de Buena Fe" width="300">
+</p>
 <b>Poblacion:</b> Posee una densidad de población calculada en más de 63,000 habitantes.
 <br><br>
 <b>Mapa:</b><br>
-<img src="mapa_buena_fe.jpg">
+<img src="mapa_buenafe.jpeg" alt="Mapa de Buena Fe" width="300">
 </p>
-<a href="#Caratula_Cantones">Volver al Menú de Cantones</a>
+<a href="#Menú de Cantones">Volver al Menú de Cantones</a>
 
 <h2 id="Cantón Mocache"><b>Cantón Mocache</b></h2>
 <p>
 <b>Breve descripción reseña del canton:</b> El cantón Mocache fue creado oficialmente el 28 de mayo de 1996. Es considerado una zona agrícola de altísima importancia en la provincia, destacando su producción de maíz, cacao y café, y poseyendo un arraigo muy profundo en las tradiciones del campo y la cultura montubia.
 <br><br>
-<b>Indicar sus parroquias:</b> El cantón está conformado por su cabecera cantonal mediante la parroquia urbana de Mocache, abarcando además una amplia cantidad de recintos y sectores comunitarios rurales.
+<b>Parroquias:</b> El cantón está conformado por su cabecera cantonal mediante la parroquia urbana de Mocache, abarcando además una amplia cantidad de recintos y sectores comunitarios rurales.
 <br><br>
 <b>Platos de comida típicos:</b> En su mesa tradicional sobresale el seco de gallina criolla, los bollos de pescado, la tonga y los deliciosos platos preparados a base de pescado de río asado en hojas de plátano.
 <br><br>
-<b>Luagres turísticos y por que es turístico:</b> Es turístico debido a sus balnearios naturales de agua dulce sobre el Río Quevedo (que cruza la zona), sus reconocidas haciendas cacaoteras que fomentan el agroturismo y las tradicionales regatas fluviales y rodeos montubios que atraen a miles de visitantes.
+<b>Lugares turísticos y por que es turístico:</b> Es turístico debido a sus balnearios naturales de agua dulce sobre el Río Quevedo (que cruza la zona), sus reconocidas haciendas cacaoteras que fomentan el agroturismo y las tradicionales regatas fluviales y rodeos montubios que atraen a miles de visitantes.
 <br><br>
 <b>Hoteles donde alojarse:</b> Los turistas recurren habitualmente a hostales locales en el casco urbano o aprovechan las ofertas de hospedaje en la vecina ciudad de Quevedo debido a su extrema cercanía.
 <br><br>
