@@ -118,7 +118,7 @@ Fecha de consulta del sitio web: 02 de Noviembre de 2026.
 <b>Poblacion:</b> Su población estimada ronda los 43,000 habitantes.
 <br><br>
 <b>Mapa:</b><br>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Baba_in_Los_R%C3%ADos_%28Ecuador%29.svg">
+<img src="mapa_baba.jpg" alt="Mapa de Baba" width="300">
 </p>
 <a href="#Menú de Cantones">Volver al Menú de Cantones</a>
 
