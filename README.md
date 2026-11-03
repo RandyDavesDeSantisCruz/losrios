@@ -113,7 +113,7 @@ Fecha de consulta del sitio web: 02 de Noviembre de 2026.
 <br><br>
 <b>Hoteles donde alojarse:</b> Hostal Central Baba y Residencial La Nobleza ofrecen hospedaje cómodo en el sector céntrico.
 <br><br>
-<b>Alcalde:</b>
+<b>Alcalde:</b> Shirley Melo - Alcaldesa de Baba
 <p>
 <img src="shirley_melo.jpg" alt="Shirley Melo - Alcaldesa de Baba" width="300">
 </p>
