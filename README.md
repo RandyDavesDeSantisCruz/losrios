@@ -1,9 +1,4 @@
 <html>
-<title>
-
-    DATOS DE LA PROVINCIA DE LOS RÍOS
-
-</title>
 
 <head>
 </head>
