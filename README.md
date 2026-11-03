@@ -1,11 +1,79 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Datos de la Provincia de Los Ríos</title>
-
+<style>
+  .opciones {
+    position: sticky;
+    top: 0;
+    background: #f4f4f4;
+    padding: 10px 16px;
+    border-bottom: 1px solid #ccc;
+    font-family: Arial, sans-serif;
+    z-index: 10;
+  }
+  .opciones label {
+    cursor: pointer;
+  }
+  .opciones small {
+    display: block;
+    color: #666;
+    margin-top: 4px;
+  }
+  [id] {
+    scroll-margin-top: 60px;
+  }
+  /* Los artículos de los cantones están ocultos hasta que se abren desde su enlace */
+  .articulo-canton {
+    display: none;
+  }
+  .articulo-canton.abierto {
+    display: block;
+  }
+  .panel-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 100;
+  }
+  .panel-overlay[hidden] {
+    display: none;
+  }
+  .panel-caja {
+    background: #fff;
+    width: 92%;
+    max-width: 800px;
+    max-height: 90vh;
+    overflow-y: auto;
+    padding: 16px;
+    border-radius: 8px;
+  }
+  .panel-caja button {
+    cursor: pointer;
+    margin-bottom: 10px;
+  }
+  .panel-aviso {
+    font-family: Arial, sans-serif;
+    color: #7a5b00;
+    background: #fff3cd;
+    padding: 8px;
+  }
+</style>
 </head>
 <body>
+
+<div class="opciones">
+  <label>
+    <input type="checkbox" id="abrirEnVentana">
+    Abrir las demás secciones en una nueva ventana
+  </label>
+  <small>(los cantones siempre se abren en una ventana aparte)</small>
+</div>
 
 <h1>Datos de la Provincia de Los Ríos</h1>
 <a href="#Seccion_Descripcion">Ingresar a Descripcion de la provincia</a>
