@@ -21,7 +21,7 @@
 <br>
 <a href="#Fecha">Ingresar a Fecha</a>
 <br>
-<a href="#Caratula_Cantones">Ir a Sección: Menu: Cantones</a>
+<a href="#Menú de Cantones">Ir a Sección: Menu: Cantones</a>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
@@ -37,13 +37,13 @@ Los Ríos es una de las provincias de la región litoral del Ecuador, caracteriz
 </p>
 <a href="#">Volver al Menú Principal</a>
 
-<h2 id="Prefecto"><b>Prefecto</b></h2>
+<h2 id="Prefecto"><b>Prefecto</b></h2> Johnny Terán - Prefecto de Los Ríos
 <p>
 <img src="johnny_teran.jpg" alt="Johnny Terán - Prefecto de Los Ríos" width="300">
 </p>
 <a href="#">Volver al Menú Principal</a>
 
-<h2 id="Gobernador"><b>Gobernador</b></h2>
+<h2 id="Gobernador"><b>Gobernador</b></h2> Andrés Rizzo - Gobernador de Los Ríos
 <p>
 <img src="andres_rizzo.jpg" alt="Andrés Rizzo - Gobernador de Los Ríos" width="300">
 </p>
@@ -107,7 +107,10 @@ Fecha de consulta del sitio web: 02 de Noviembre de 2026.
 <br><br>
 <b>Indicar sus parroquias:</b> Está compuesto por la parroquia urbana de Baba y las parroquias rurales de Guare e Isla de Bejucal.
 <br><br>
-<b>Platos de comida típicos:</b> Los platos más tradicionales son los bollos de pescado, el seco de gallina criolla y la cazuela de pescado.
+<b>Platos de comida típicos:</b> Los platos más tradicionales son la leña quebrada, los bollos de pescado, el seco de gallina criolla y la cazuela de pescado.
+<p>
+<img src="leña_quebrada.jpg" alt="Leña quebrada" width="300">
+</p>
 <br><br>
 <b>Lugares turísticos y por que es turístico:</b> Es turístico por sus hermosas playas de agua dulce junto al Río Baba y sus balnearios recreativos ideales para la temporada playera.
 <br><br>
@@ -134,6 +137,7 @@ Fecha de consulta del sitio web: 02 de Noviembre de 2026.
 <p>
 <img src="seco_de_gallina.jpg" alt="Seco de gallina" width="300">
 </p>
+<br><br>
 <b>Lugares turísticos y por que es turístico:</b> Es un gran destino turístico por la Casa de Olmedo (donde el escritor redactó sus obras históricas), el paseo en lancha por el Río Babahoyo para observar las casas flotantes y el imponente Cerro Cacharí.
 <br><br>
 <b>Hoteles donde alojarse:</b> Ofrece hospedajes como el Hotel Emperador, Hotel Central y el Hotel El Ejecutivo en su casco central.
@@ -159,6 +163,7 @@ Fecha de consulta del sitio web: 02 de Noviembre de 2026.
 <p>
 <img src="caldo_de_bola.jpg" alt="Caldo de bola" width="300">
 </p>
+<br><br>
 <b>Lugares turísticos y por que es turístico:</b> Es turístico debido al imponente paso del Río Baba, sus cascadas en recintos periféricos y la cercanía al proyecto hidromecánico Velasco Ibarra.
 <br><br>
 <b>Hoteles donde alojarse:</b> Los viajeros disponen del Hotel D'Mario y el Hostal Buena Fe para su alojamiento.
@@ -273,6 +278,8 @@ Fecha de consulta del sitio web: 02 de Noviembre de 2026.
 <p>
 <img src="elsy_ospina.jpg" alt="Elsy Ospina - Alcaldesa de Puebloviejo" width="300">
 </p>
+<b>Población:</b> Posee una población de 46,821 habitantes censados.
+<br><br>
 <b>Mapa:</b><br>
 <img src="mapa_puebloviejo.png" alt="Mapa de Puebloviejo" width="300">
 </p>
@@ -282,22 +289,27 @@ Fecha de consulta del sitio web: 02 de Noviembre de 2026.
 <p>
 <b>Breve descripción reseña del canton:</b> El cantón Quevedo fue creado oficialmente el 7 de octubre de 1943. Es conocido como la "Capital Económica de Los Ríos" y la "Ciudad del Río" debido a su gigantesco movimiento comercial, financiero e industrial, consolidándose como uno de los polos de desarrollo más dinámicos del país.
 <br><br>
-<b>Indicar sus parroquias:</b> Su territorio está integrado por nueve parroquias urbanas: Quevedo, San Camilo, San Cristóbal, Venus del Río Quevedo, Nicolas Infante Díaz, Guayacán, Siete de Octubre, 24 de Mayo y El Pantano; y dos parroquias rurales: San Carlos y La Esperanza.
+<b>Parroquias:</b> Su territorio está integrado por nueve parroquias urbanas: Quevedo, San Camilo, San Cristóbal, Venus del Río Quevedo, Nicolas Infante Díaz, Guayacán, Siete de Octubre, 24 de Mayo y El Pantano; y dos parroquias rurales: San Carlos y La Esperanza.
 <br><br>
-<b>Platos de comida típicos:</b> Destaca por su gran variedad gastronómica donde sobresalen el tradicional estofado de pescado, los bollos, el gallo pinto y la popular fritada, complementándose con una fuerte influencia de comida chifa (asiática-ecuatoriana) debido a su historia migratoria.
+<b>Platos de comida típicos:</b> Destaca por su gran variedad gastronómica donde sobresalen el tradicional estofado de pescado, los bollos, y la popular fritada, complementándose con una fuerte influencia de comida chifa (asiática-ecuatoriana) debido a su historia migratoria.
+<p>
+<img src="chaulafan.jpg" alt="Chaulafan" width="300">
+</p>
 <br><br>
-<b>Luagres turísticos y por que es turístico:</b> Es un destino muy turístico por su icónico Puente Velasco Ibarra, el Malecón de la Ruta del Río (atractivo centro de entretenimiento y gastronomía fluvial), la Iglesia de San José y sus concurridas festividades comerciales y de cantonización.
+<b>Lugares turísticos y por que es turístico:</b> Es un destino muy turístico por su icónico Puente Velasco Ibarra, el Malecón de la Ruta del Río (atractivo centro de entretenimiento y gastronomía fluvial), la Iglesia de San José y sus concurridas festividades comerciales y de cantonización.
 <br><br>
 <b>Hoteles donde alojarse:</b> Dispone de una excelente infraestructura hotelera que incluye al Hotel Barros, Hotel Palmar del Sol, Hotel Olímpico y el Ejecutivo, ofreciendo alta comodidad para el turismo de negocios.
 <br><br>
-<b>Alcalde:</b> La administración municipal está liderada por el alcalde Dr. Alexis Fernando Matute.
-<br><br>
+<b>Alcalde:</b> Alexis Matute - Alcalde de Quevedo
+<p>
+<img src="alexis_matute.jpg" alt="Alexis Matute - Alcalde de Quevedo" width="300">
+</p>
 <b>Poblacion:</b> Cuenta con una población censada de 206,008 habitantes, siendo el cantón más poblado y con mayor densidad de la provincia.
 <br><br>
 <b>Mapa:</b><br>
-<img src="mapa_quevedo.jpg">
+<img src="mapa_quevedo.png" alt="Mapa de Quevedo" width="300">
 </p>
-<a href="#Caratula_Cantones">Volver al Menú de Cantones</a>
+<a href="#Menú de Cantones">Volver al Menú de Cantones</a>
 
 <h2 id="Cantón Quinsaloma"><b>Cantón Quinsaloma</b></h2>
 <p>
@@ -305,20 +317,25 @@ Fecha de consulta del sitio web: 02 de Noviembre de 2026.
 <br><br>
 <b>Indicar sus parroquias:</b> El territorio está constituido únicamente por su cabecera cantonal mediante la parroquia urbana de Quinsaloma, complementándose directamente con una gran cantidad de recintos rurales productores.
 <br><br>
-<b>Platos de comida típicos:</b> Su gastronomía tradicional destaca por el seco de gallina criolla cooked a leña, los bollos de pescado, la tonga montubia y los deliciosos asados al carbón acompañados de verde.
+<b>Platos de comida típicos:</b> Su gastronomía tradicional destaca por el seco de gallina criolla cocinada a leña, los bollos de pescado, la tonga montubia y los deliciosos asados al carbón acompañados de verde.
+<p>
+<img src="tonga.jpg" alt="Tonga" width="300">
+</p>
 <br><br>
-<b>Luagres turísticos y por que es turístico:</b> Es un destino turístico emergente gracias a sus hermosos ríos de agua cristalina y balnearios naturales como el Río Umbe, el estero de Las Palmitas y diversos complejos ecoturísticos campestres que ofrecen un ambiente ideal para el descanso familiar.
+<b>Lugares turísticos y por que es turístico:</b> Es un destino turístico emergente gracias a sus hermosos ríos de agua cristalina y balnearios naturales como el Río Umbe, el estero de Las Palmitas y diversos complejos ecoturísticos campestres que ofrecen un ambiente ideal para el descanso familiar.
 <br><br>
 <b>Hoteles donde alojarse:</b> Los visitantes se hospedan en pensiones familiares y hostales cómodos dentro del casco central, o aprovechan la cercanía con el cantón Ventanas y la provincia de Cotopaxi para opciones adicionales.
 <br><br>
-<b>Alcalde:</b> La administración municipal se encuentra bajo el liderazgo de las autoridades locales vigentes del cantón.
-<br><br>
+<b>Alcalde:</b> Cristhian Aldaz - Alcalde de Quinsaloma
+<p>
+<img src="cristhian_aldaz.jpg" alt="Cristhian Aldaz - Alcalde de Quinsaloma" width="300">
+</p>
 <b>Poblacion:</b> Cuenta con una población estimada que ronda los 16,500 habitantes en su territorio cantonal.
 <br><br>
 <b>Mapa:</b><br>
-<img src="mapa_quinsaloma.jpg">
+<img src="mapa_quinsaloma.png" alt="Mapa de Quinsaloma" width="300">
 </p>
-<a href="#Caratula_Cantones">Volver al Menú de Cantones</a>
+<a href="#Menú de Cantones">Volver al Menú de Cantones</a>
 
 <h2 id="Cantón Urdaneta"><b>Cantón Urdaneta</b></h2>
 <p>
@@ -327,19 +344,24 @@ Fecha de consulta del sitio web: 02 de Noviembre de 2026.
 <b>Indicar sus parroquias:</b> El territorio está constituido por su cabecera cantonal mediante la parroquia urbana de Catarama, y por la parroquia rural de Ricaurte.
 <br><br>
 <b>Platos de comida típicos:</b> En su mesa tradicional sobresale el auténtico seco de gallina criolla, los bollos de pescado, la cazuela y el sabroso arroz con menestra y carne asada.
+<p>
+<img src="tonga.jpg" alt="Tonga" width="300">
+</p>
 <br><br>
-<b>Luagres turísticos y por que es turístico:</b> Es turístico debido a sus balnearios naturales sobre el Río Catarama, sus hermosas fincas y haciendas cacaoteras que fomentan el agroturismo, y las tradicionales cabalgatas y rodeos montubios que se celebran anualmente reflejando la identidad local.
+<b>Lugares turísticos y por que es turístico:</b> Es turístico debido a sus balnearios naturales sobre el Río Catarama, sus hermosas fincas y haciendas cacaoteras que fomentan el agroturismo, y las tradicionales cabalgatas y rodeos montubios que se celebran anualmente reflejando la identidad local.
 <br><br>
 <b>Hoteles donde alojarse:</b> Los visitantes cuentan con pensiones y hostales locales en el casco urbano de Catarama y Ricaurte, o aprovechan la cercanía con el cantón Babahoyo para opciones de mayor tamaño.
 <br><br>
-<b>Alcalde:</b> La administración municipal se encuentra bajo el liderazgo de la alcaldesa Amada Zambrano.
-<br><br>
+<b>Alcalde:</b> Amada Zambrano - Alcaldesa de Urdaneta
+<p>
+<img src="amada_zambrano.jpg" alt="Amada Zambrano - Alcaldesa de Urdaneta" width="300">
+</p>
 <b>Poblacion:</b> Cuenta con una población estimada que ronda los 30,000 habitantes en su territorio cantonal.
 <br><br>
 <b>Mapa:</b><br>
-<img src="mapa_urdaneta.jpg">
+<img src="mapa_urdaneta.jpg" alt="Mapa de Urdaneta" width="300">
 </p>
-<a href="#Caratula_Cantones">Volver al Menú de Cantones</a>
+<a href="#Menú de Cantones">Volver al Menú de Cantones</a>
 
 <h2 id="Cantón Valencia"><b>Cantón Valencia</b></h2>
 <p>
@@ -348,19 +370,25 @@ Fecha de consulta del sitio web: 02 de Noviembre de 2026.
 <b>Indicar sus parroquias:</b> Su territorio está constituido por la parroquia urbana de Valencia, y cuenta además con las parroquias rurales de La Unión y Nueva San Carlos.
 <br><br>
 <b>Platos de comida típicos:</b> Su gastronomía típica ofrece deliciosos platos tradicionales como el seco de gallina criolla, los bollos de pescado en hoja de plátano, caldos de manguera y las populares carnes asadas con menestra y verde.
+<p>
+<img src="caldo_de_manguera.jpeg" alt="Caldo de manguera" width="300">
+</p>
 <br><br>
-<b>Luagres turísticos y por que es turístico:</b> Es un gran destino turístico por sus balnearios de agua dulce y ríos cristalinos como el Río San Pablo y el Río Chipe, sus hermosas fincas agroturísticas, y es sumamente famoso por sus tradicionales fiestas de San Francisco de Asís que incluyen concurridas corridas de toros populares.
+<b>Lugares turísticos y por que es turístico:</b> Es un gran destino turístico por sus balnearios de agua dulce y ríos cristalinos como el Río San Pablo y el Río Chipe, sus hermosas fincas agroturísticas, y es sumamente famoso por sus tradicionales fiestas de San Francisco de Asís que incluyen concurridas corridas de toros populares.
 <br><br>
 <b>Hoteles donde alojarse:</b> Cuenta con hostales cómodos en el casco central como el Hostal Valencia y pensiones familiares, apoyándose también en la amplia red de hoteles de la vecina ciudad de Quevedo por su gran cercanía vial.
 <br><br>
-<b>Alcalde:</b> La administración municipal se encuentra bajo el liderazgo del alcalde Ing. Daniel Macías.
+<b>Alcalde:</b> Daniel Macías - Alcalde de Valencia
+<p>
+<img src="daniel_macias.jpg" alt="Daniel Macías - Alcalde de Valencia" width="300">
+</p>
 <br><br>
 <b>Poblacion:</b> Cuenta con una población estimada que ronda los 47,300 habitantes en su territorio cantonal.
 <br><br>
 <b>Mapa:</b><br>
-<img src="mapa_valencia.jpg">
+<img src="mapa_urdaneta.jpg" alt="Mapa de Urdaneta" width="300">
 </p>
-<a href="#Caratula_Cantones">Volver al Menú de Cantones</a>
+<a href="#Menú de Cantones">Volver al Menú de Cantones</a>
 
 <h2 id="Cantón Ventanas"><b>Cantón Ventanas</b></h2>
 <p>
@@ -368,20 +396,26 @@ Fecha de consulta del sitio web: 02 de Noviembre de 2026.
 <br><br>
 <b>Indicar sus parroquias:</b> Su territorio está constituido por las parroquias urbanas de Ventanas y 10 de Noviembre; y por las parroquias rurales de Chacarita, Los Ángeles y Zapotal.
 <br><br>
-<b>Platos de comida típicos:</b> Su mesa tradicional destaca por el seco de gallina criolla cooked de forma artesanal, la tonga montubia, los tamales de maíz tierno, humitas, y platos a base de pescado de río como bollos y cazuelas.
+<b>Platos de comida típicos:</b> Su mesa tradicional destaca por el seco de gallina criolla cocinada de forma artesanal, la tonga montubia, los tamales, humitas, y platos a base de pescado de río como bollos y cazuelas.
+<p>
+<img src="tamal.jpeg" alt="Tamal" width="300">
+</p>
 <br><br>
-<b>Luagres turísticos y por que es turístico:</b> Es turístico debido a sus balnearios fluviales y cascadas naturales en el sector de las parroquias rurales, sus tradicionales rodeos montubios que atraen a miles de visitantes cada año por sus fiestas de cantonización, y los recorridos ecoturísticos por sus extensas plantaciones.
+<b>Lugares turísticos y por que es turístico:</b> Es turístico debido a sus balnearios fluviales y cascadas naturales en el sector de las parroquias rurales, sus tradicionales rodeos montubios que atraen a miles de visitantes cada año por sus fiestas de cantonización, y los recorridos ecoturísticos por sus extensas plantaciones.
 <br><br>
 <b>Hoteles donde alojarse:</b> Dispone de alojamientos en su casco comercial y hotelero central como el Hotel Ventanas, Hostal El Zapotal y pensiones familiares cómodas para viajeros de paso.
 <br><br>
-<b>Alcalde:</b> La administración municipal se encuentra bajo el liderazgo del alcalde del cantón.
+<b>Alcalde:</b> Carlos Carriel - Alcalde de Ventanas
+<p>
+<img src="carlos_carriel.jpg" alt="Carlos Carriel - Alcalde de Ventanas" width="300">
+</p>
 <br><br>
 <b>Poblacion:</b> Cuenta con una población estimada que ronda los 72,000 habitantes en todo su territorio cantonal.
 <br><br>
 <b>Mapa:</b><br>
-<img src="mapa_ventanas.jpg">
+<img src="mapa_ventanas.jpg" alt="Mapa de Ventanas" width="300">
 </p>
-<a href="#Caratula_Cantones">Volver al Menú de Cantones</a>
+<a href="#Menú de Cantones">Volver al Menú de Cantones</a>
 
 <h2 id="Cantón Vinces"><b>Cantón Vinces</b></h2>
 <p>
@@ -389,19 +423,25 @@ Fecha de consulta del sitio web: 02 de Noviembre de 2026.
 <br><br>
 <b>Indicar sus parroquias:</b> Su territorio está constituido por la parroquia urbana de Vinces (cabecera cantonal) y por las parroquias rurales de Antonio Sotomayor (Playas de Vinces) y Guare.
 <br><br>
-<b>Platos de comida típicos:</b> En su variada gastronomía sobresalen los bollos de pescado en hoja de plátano, el seco de gallina criolla cooked a leña, el ceviche de balsa y la tradicional cazuela de pescado de río.
+<b>Platos de comida típicos:</b> En su variada gastronomía sobresalen los bollos de pescado en hoja de plátano, el seco de gallina criolla cocinada a leña, el ceviche de balsa y la tradicional cazuela de pescado de río.
+<p>
+<img src="bollo_asado.jpg" alt="Bollo asado" width="300">
+</p>
 <br><br>
-<b>Luagres turísticos y por que es turístico:</b> Es un gran destino turístico gracias a su hermoso e histórico Malecón junto al Río Vinces, la réplica de la Torre Eiffel en su casco urbano, el Humedal Reserva de la Biosfera Abras de Mantequilla (refugio de biodiversidad única) y sus famosas regatas náuticas y rodeos montubios.
+<b>Lugares turísticos y por que es turístico:</b> Es un gran destino turístico gracias a su hermoso e histórico Malecón junto al Río Vinces, la réplica de la Torre Eiffel en su casco urbano, el Humedal Reserva de la Biosfera Abras de Mantequilla (refugio de biodiversidad única) y sus famosas regatas náuticas y rodeos montubios.
 <br><br>
 <b>Hoteles donde alojarse:</b> Los visitantes cuentan con alojamientos cómodos y tradicionales como el Hotel Paris, Hostal El Recuerdo y diversas residenciales ubicadas en las zonas céntricas y turísticas.
 <br><br>
-<b>Alcalde:</b> La administración municipal se encuentra bajo el liderazgo de las autoridades locales vigentes de la localidad.
+<b>Alcalde:</b> Carlos Carriel - Alcalde de Ventanas
+<p>
+<img src="carlos_carriel.jpg" alt="Carlos Carriel - Alcalde de Ventanas" width="300">
+</p>
 <br><br>
 <b>Poblacion:</b> Cuenta con una población estimada que ronda los 75,000 habitantes en todo su territorio cantonal.
 <br><br>
 <b>Mapa:</b><br>
-<img src="mapa_vinces.jpg">
+<img src="mapa_vinces.jpg" alt="Mapa de Vinces" width="300">
 </p>
-<a href="#Caratula_Cantones">Volver al Menú de Cantones</a>
+<a href="#Menú de Cantones">Volver al Menú de Cantones</a>
 
 </html>
