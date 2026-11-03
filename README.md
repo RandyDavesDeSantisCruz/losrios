@@ -274,7 +274,7 @@ Fecha de consulta del sitio web: 02 de Noviembre de 2026.
 <img src="elsy_ospina.jpg" alt="Elsy Ospina - Alcaldesa de Puebloviejo" width="300">
 </p>
 <b>Mapa:</b><br>
-<img src="mapa_puebloviejo.jpg" alt="Mapa de Puebloviejo" width="300">
+<img src="mapa_puebloviejo.png" alt="Mapa de Puebloviejo" width="300">
 </p>
 <a href="#Menú de Cantones">Volver al Menú de Cantones</a>
 
