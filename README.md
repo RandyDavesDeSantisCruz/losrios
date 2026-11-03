@@ -3,44 +3,8 @@
     DATOS DE LA PROVINCIA DE LOS RÍOS
 </title>
 <head>
-<style>
-    /* 1. Ocultar por defecto todas las secciones, párrafos, enlaces de retorno y el menú de cantones */
-    h2[id],
-    h2[id] + p,
-    h2[id] + p + a,
-    #Caratula_Cantones,
-    a[href^="#Cantón"] {
-        display: none;
-    }
 
-    /* 2. CUANDO SE HACE CLIC EN UN ENLACE (:target): Ocultar el menú principal de la página */
-    body:has(:target) > h1:first-of-type,
-    body:has(:target) > a:not(h2[id] + p + a),
-    body:has(:target) > br {
-        display: none;
-    }
-
-    /* 3. MOSTRAR EL CONTENIDO SELECCIONADO */
-    /* Mostrar la sección o cantón específico cuando es el target */
-    h2[id]:target,
-    h2[id]:target + p,
-    h2[id]:target + p + a {
-        display: block !important;
-    }
-
-    /* Mostrar el Menú de Cantones cuando se hace clic en "Ir a Sección: Menu: Cantones" */
-    #Caratula_Cantones:target {
-        display: block !important;
-    }
-    #Caratula_Cantones:target ~ a[href^="#Cantón"] {
-        display: inline !important;
-    }
-    #Caratula_Cantones:target ~ br {
-        display: block !important;
-    }
-</style>
 </head>
-
 <h1>Datos de la Provincia de Los Ríos</h1>
 
 <a href="#Seccion_Descripcion">Ingresar a Descripcion de la provincia</a>
@@ -105,9 +69,6 @@ Fecha de consulta del sitio web: 02 de Noviembre de 2026.
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<!-- ========================================== -->
-<!--         CARÁTULA 2: SECCIÓN CANTONES       -->
-<!-- ========================================== -->
 <h1 id="Caratula_Cantones">Menu: Cantones</h1>
 
 <a href="#Cantón Baba">Ingresar a Baba</a>
@@ -148,7 +109,7 @@ Fecha de consulta del sitio web: 02 de Noviembre de 2026.
 <br><br>
 <b>Platos de comida típicos:</b> Los platos más tradicionales son los bollos de pescado, el seco de gallina criolla y la cazuela de pescado.
 <br><br>
-<b>Luagres turísticos y por que es turístico:</b> Es turístico por sus hermosas playas de agua dulce junto al Río Baba y sus balnearios recreativos ideales para la temporada playera.
+<b>Lugares turísticos y por que es turístico:</b> Es turístico por sus hermosas playas de agua dulce junto al Río Baba y sus balnearios recreativos ideales para la temporada playera.
 <br><br>
 <b>Hoteles donde alojarse:</b> Hostal Central Baba y Residencial La Nobleza ofrecen hospedaje cómodo en el sector céntrico.
 <br><br>
@@ -157,9 +118,11 @@ Fecha de consulta del sitio web: 02 de Noviembre de 2026.
 <b>Poblacion:</b> Su población estimada ronda los 43,000 habitantes.
 <br><br>
 <b>Mapa:</b><br>
-<img src="mapa_baba.jpg">
+<a href="[mapa_baba.jpg](https://upload.wikimedia.org/wikipedia/commons/5/57/Baba_in_Los_R%C3%ADos_%28Ecuador%29.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original)" target="_blank">
+    <img src="[mapa_baba.jpg](https://upload.wikimedia.org/wikipedia/commons/5/57/Baba_in_Los_R%C3%ADos_%28Ecuador%29.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original)">
+</a>
 </p>
-<a href="#Caratula_Cantones">Volver al Menú de Cantones</a>
+<a href="#Menú de Cantones">Volver al Menú de Cantones</a>
 
 <h2 id="Cantón Babahoyo"><b>Cantón Babahoyo</b></h2>
 <p>
