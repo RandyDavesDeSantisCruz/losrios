@@ -139,7 +139,7 @@ Fecha de consulta del sitio web: 02 de Noviembre de 2026.
 <b>Poblacion:</b> Cuenta con una población estimada de más de 150,000 habitantes, siendo el centro urbano más denso de la provincia.
 <br><br>
 <b>Mapa:</b><br>
-<img src="mapa_babahoyo.jpg">
+<img src="https://tools.paintmaps.com/og_image/map_cropping/4-1108567841-3.jpeg" alt="Mapa" width="300">
 </p>
 <a href="#Caratula_Cantones">Volver al Menú de Cantones</a>
 
