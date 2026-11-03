@@ -57,7 +57,7 @@ La provincia cuenta con un aproximado de 898,635 habitantes en todo su territori
 
 <h2 id="Mapa"><b>Mapa</b></h2>
 <p>
-<img src="mapa_de_losrios.jpg" alt="Mapa de Los Ríos" width="300">
+<img src="mapa_losrios.jpg" alt="Mapa de Los Ríos" width="300">
 </p>
 <a href="#">Volver al Menú Principal</a>
 
