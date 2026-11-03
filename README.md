@@ -170,7 +170,7 @@ Fecha de consulta del sitio web: 02 de Noviembre de 2026.
 <b>Poblacion:</b> Posee una densidad de población calculada en más de 63,000 habitantes.
 <br><br>
 <b>Mapa:</b><br>
-<img src="mapa_buenafe.jpeg" alt="Mapa de Buena Fe" width="300">
+<img src="mapa_buenafe.jpg" alt="Mapa de Buena Fe" width="300">
 </p>
 <a href="#Menú de Cantones">Volver al Menú de Cantones</a>
 
@@ -180,20 +180,25 @@ Fecha de consulta del sitio web: 02 de Noviembre de 2026.
 <br><br>
 <b>Parroquias:</b> El cantón está conformado por su cabecera cantonal mediante la parroquia urbana de Mocache, abarcando además una amplia cantidad de recintos y sectores comunitarios rurales.
 <br><br>
-<b>Platos de comida típicos:</b> En su mesa tradicional sobresale el seco de gallina criolla, los bollos de pescado, la tonga y los deliciosos platos preparados a base de pescado de río asado en hojas de plátano.
+<b>Platos de comida típicos:</b> En su mesa tradicional sobresale el encanutado de bocachico, el seco de gallina criolla, los bollos de pescado, la tonga y los deliciosos platos preparados a base de pescado de río asado en hojas de plátano.
+<p>
+<img src="encanutado_de_bocachico.jpg" alt="Encanutado de bocachico" width="300">
+</p>
 <br><br>
 <b>Lugares turísticos y por que es turístico:</b> Es turístico debido a sus balnearios naturales de agua dulce sobre el Río Quevedo (que cruza la zona), sus reconocidas haciendas cacaoteras que fomentan el agroturismo y las tradicionales regatas fluviales y rodeos montubios que atraen a miles de visitantes.
 <br><br>
 <b>Hoteles donde alojarse:</b> Los turistas recurren habitualmente a hostales locales en el casco urbano o aprovechan las ofertas de hospedaje en la vecina ciudad de Quevedo debido a su extrema cercanía.
 <br><br>
-<b>Alcalde:</b> La administración municipal está liderada por la alcaldesa Ab. Yenny Domínguez.
-<br><br>
+<b>Alcalde:</b> Yenny Domínguez - Alcaldesa de Mocache
+<p>
+<img src="yenny_dominguez.jpg" alt="Yenny Domínguez - Alcaldesa de Mocache" width="300">
+</p>
 <b>Poblacion:</b> Cuenta con una población estimada que ronda los 44,600 habitantes en todo su territorio.
 <br><br>
 <b>Mapa:</b><br>
-<img src="mapa_mocache.jpg">
+<img src="mapa_mocache.jpg" alt="Mapa de Mocache" width="300">
 </p>
-<a href="#Caratula_Cantones">Volver al Menú de Cantones</a>
+<a href="#Menú de Cantones">Volver al Menú de Cantones</a>
 
 <h2 id="Cantón Montalvo"><b>Cantón Montalvo</b></h2>
 <p>
@@ -214,7 +219,7 @@ Fecha de consulta del sitio web: 02 de Noviembre de 2026.
 <b>Mapa:</b><br>
 <img src="mapa_montalvo.jpg">
 </p>
-<a href="#Caratula_Cantones">Volver al Menú de Cantones</a>
+<a href="#Menú de Cantones">Volver al Menú de Cantones</a>
 
 <h2 id="Cantón Palenque"><b>Cantón Palenque</b></h2>
 <p>
