@@ -119,7 +119,7 @@ Fecha de consulta del sitio web: 02 de Noviembre de 2026.
 <br><br>
 <b>Mapa:</b><br>
 <a href="https://es.wikipedia.org/wiki/Archivo:Baba_in_Los_R%C3%ADos_%28Ecuador%29.svg" target="_blank">
-    <img src="https://es.wikipedia.org/wiki/Archivo:Baba_in_Los_R%C3%ADos_%28Ecuador%29.svg">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Baba_in_Los_R%C3%ADos_%28Ecuador%29.svg">
 </a>
 </p>
 <a href="#Menú de Cantones">Volver al Menú de Cantones</a>
