@@ -33,7 +33,7 @@ Los Ríos es una de las provincias de la región litoral del Ecuador, caracteriz
 
 <h2 id="Imagen de la Bandera"><b>Imagen de la Bandera</b></h2>
 <p>
-<img src="bandera.jpg">
+<img src="bandera_losrios.jpeg" alt="Bandera de Los Ríos" width="300">
 </p>
 <a href="#">Volver al Menú Principal</a>
 
@@ -141,7 +141,7 @@ Fecha de consulta del sitio web: 02 de Noviembre de 2026.
 <b>Mapa:</b><br>
 <img src="https://tools.paintmaps.com/og_image/map_cropping/4-1108567841-3.jpeg" alt="Mapa" width="300">
 </p>
-<a href="#Caratula_Cantones">Volver al Menú de Cantones</a>
+<a href="#Menú de Cantones">Volver al Menú de Cantones</a>
 
 <h2 id="Cantón Buena Fe"><b>Cantón Buena Fe</b></h2>
 <p>
